@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# ZenFlow (ZenXAI-style Workflow Builder)
-
+# WebAutomation
 ## 🪜 Setup Instructions
 
 1. Clone this repo
